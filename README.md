@@ -46,44 +46,6 @@ Backend Developer • C# • .NET
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CaueSantader&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-## 📌 Projetos
-
-🚀 FinanceFlow
-
-Sistema financeiro utilizando Clean Architecture.
-
----
-
-🔐 Identity API
-
-Autenticação utilizando JWT + Refresh Token.
-
----
-
-🎫 Ticket Manager
-
-Sistema de gerenciamento de chamados.
-
----
-
-⚙️ File Processor
-
-Processamento assíncrono utilizando RabbitMQ.
-
----
-
-## 📫 Contato
-
 <a href="https://www.linkedin.com/">
 LinkedIn
 </a>
