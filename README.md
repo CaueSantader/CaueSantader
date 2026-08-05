@@ -16,14 +16,11 @@ Backend Developer • C# • .NET
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaueSantader&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaueSantader&layout=compact&theme=tokyonight"/>
-
-</p>
-
+<div>
+  <a href="https://github.com/raicg">
+  <img height="185em" src="https://raicg-github-stats.vercel.app/api?username=raicg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://raicg-github-stats.vercel.app/api/top-langs/?username=raicg&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 ---
 
 ## 🔥 Streak
