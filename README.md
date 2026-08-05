@@ -41,6 +41,10 @@ Apaixonado por desenvolvimento backend, arquitetura de software e resolução de
 
 ---
 
+## 🐍 Contributions
+
+![](https://raw.githubusercontent.com/CaueSantader/CaueSantader/output/github-contribution-grid-snake.svg)
+
 ## 🔥 Streak
 
 <p align="center">
