@@ -4,21 +4,6 @@
 Backend Developer • C# • .NET
 </h3>
 
-<p align="center">
-Apaixonado por desenvolvimento backend, arquitetura de software e resolução de problemas utilizando tecnologias Microsoft.
-</p>
-
----
-
-## 🚀 Sobre mim
-
-- 💼 Desenvolvedor Backend .NET
-- 🌱 Atualmente estudando Arquitetura de Software, DDD e Microsserviços
-- 🧠 Sempre buscando escrever código limpo e escalável
-- ⚡ Gosto de transformar problemas complexos em soluções simples
-
----
-
 ## 🛠 Tecnologias
 
 <p align="left">
