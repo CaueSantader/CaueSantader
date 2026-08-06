@@ -23,10 +23,16 @@ Backend Developer • C# • .NET
 </p>
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Projetos em Destaque
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaueSantander&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <a href="https://github.com/CaueSantander/API.Bank">
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=API.Bank&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/CaueSantander/Digital-API">
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=Digital-API&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ## 🔥 Streak
