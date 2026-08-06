@@ -18,8 +18,8 @@ Backend Developer • C# • .NET
 
 <div>
   <a href="https://github.com/raicg">
-  <img height="185em" src="https://raicg-github-stats.vercel.app/api?username=raicg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://raicg-github-stats.vercel.app/api/top-langs/?username=raicg&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="185em" src="https://CaueSantadergithub-stats.vercel.app/api?username=CaueSantader&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://CaueSantader-github-stats.vercel.app/api/top-langs/?username=CaueSantader&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 ---
 
