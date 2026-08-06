@@ -16,13 +16,11 @@ Backend Developer • C# • .NET
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/CaueSantander">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=CaueSantander&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueSantander&layout=compact&langs_count=7&theme=tokyonight"/>
-    ![GitHub Stats](https://SEU-PROJETO.vercel.app/api?username=cauesantander&show_icons=true)
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api?username=CaueSantander&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=CaueSantander&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 Streak
