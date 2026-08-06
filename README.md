@@ -45,17 +45,6 @@ Backend Developer • C# • .NET
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:cauesantander@live.com">
-    Email
-  </a>
-</p>
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauesantander@live.com)
