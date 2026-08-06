@@ -17,9 +17,9 @@ Backend Developer • C# • .NET
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api?username=CaueSantander&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-nine-rho-51.vercel.app/api?username=CaueSantander&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-  <img height="180em" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=CaueSantander&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-nine-rho-51.vercel.app/api/top-langs/?username=CaueSantander&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
