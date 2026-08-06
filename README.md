@@ -39,13 +39,13 @@ Backend Developer • C# • .NET
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaueSantader&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cauesantander&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/)">
 LinkedIn
 </a>
 
