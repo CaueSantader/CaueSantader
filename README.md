@@ -23,6 +23,12 @@ Backend Developer • C# • .NET
 </p>
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaueSantander&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
 ## 🔥 Streak
 
 <p align="center">
