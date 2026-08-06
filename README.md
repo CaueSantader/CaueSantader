@@ -45,10 +45,10 @@ Backend Developer • C# • .NET
 
 ---
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/)">
-LinkedIn
+<a href="https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/" target="_blank">
+  LinkedIn
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:cauesantander@live.com">
 Email
 </a>
