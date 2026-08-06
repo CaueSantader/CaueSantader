@@ -44,8 +44,8 @@ Backend Developer • C# • .NET
 </p>
 
 ---
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AA-santander-555ab9129/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauesantander@live.com)
 
